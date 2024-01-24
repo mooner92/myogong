@@ -8,3 +8,6 @@ def solution(demical):
     while stack:
         binary += stack.pop()
     return binary
+
+
+####
